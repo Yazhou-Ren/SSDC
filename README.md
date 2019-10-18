@@ -35,7 +35,7 @@ If the code is used in your research, please star our repo and cite our paper as
 ```
 @article{Ren2018Semi,
   title={Semi-supervised DenPeak Clustering with Pairwise Constraints},
-  author={Ren, Yazhou and Hu, Xiaohui and Ke, Shi and Yu, Guoxian and Yao, Dezhong and Xu, Zenglin},
+  author={Ren, Yazhou and Hu, Xiaohui and Shi, Ke and Yu, Guoxian and Yao, Dezhong and Xu, Zenglin},
   booktitle={PRICAI 2018: Trends in Artificial Intelligence},
   pages={837--850},
   year={2018},
